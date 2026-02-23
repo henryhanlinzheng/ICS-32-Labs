@@ -4,3 +4,5 @@ __pycache__/
 *.dsu
 *.db
 *.sqlite3
+.idea/
+*.iml
